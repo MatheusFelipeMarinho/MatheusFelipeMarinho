@@ -15,7 +15,7 @@
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1f008e3-ea93-4300-b93a-a1d31c36a148/de3mdl8-aaa5f47f-6fff-4fa6-99f0-30eaea3da49c.png/v1/fill/w_860,h_929,q_70,strp/stormtrooper_pixel_art_by_theodoretoussaint_de3mdl8-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2QxZjAwOGUzLWVhOTMtNDMwMC1iOTNhLWExZDMxYzM2YTE0OFwvZGUzbWRsOC1hYWE1ZjQ3Zi02ZmZmLTRmYTYtOTlmMC0zMGVhZWEzZGE0OWMucG5nIiwid2lkdGgiOiI8PTEwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iQI5h0mJX1yBKlJjf9t7Ob3rfjLbtyFIjtRaM_MSf6o?width=676&height=676">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1f008e3-ea93-4300-b93a-a1d31c36a148/de3mdl8-aaa5f47f-6fff-4fa6-99f0-30eaea3da49c.png/v1/fill/w_860,h_929,q_70,strp/stormtrooper_pixel_art_by_theodoretoussaint_de3mdl8-pre.jpg?height=676">
 </div>
   
   ##
