@@ -15,7 +15,7 @@
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d1f008e3-ea93-4300-b93a-a1d31c36a148/de3mdl8-aaa5f47f-6fff-4fa6-99f0-30eaea3da49c.png/v1/fill/w_860,h_929,q_70,strp/stormtrooper_pixel_art_by_theodoretoussaint_de3mdl8-pre.jpg?height=676">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.dribbble.com/users/2726/screenshots/435362/media/986e25b0ba76b4d95c8178db3d809d05.jpg?height=676">
 </div>
   
   ##
