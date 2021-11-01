@@ -15,6 +15,7 @@
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.clipartmax.com/png/middle/216-2168555_pixel-art-star-wars.png?width=676&height=676">
 </div>
   
   ##
