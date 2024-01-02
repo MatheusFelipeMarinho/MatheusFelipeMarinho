@@ -5,7 +5,7 @@ Como CTO e arquiteto de software, tenho dedicado minha carreira ao avanço da te
 
 Meu compromisso com a educação e o empoderamento através da tecnologia se manifesta no meu envolvimento com iniciativas de ensino de programação para comunidades carentes. Acredito firmemente que a tecnologia é uma ferramenta poderosa para a mudança social e dedico meu tempo livre para garantir que ela esteja acessível a todos, independentemente de sua origem.
 
-No ecossistema de startups, atuo como mentor no Startup Weekend em Governador Valadares, onde uso minha experiência para orientar jovens empreendedores a transformar ideias inovadoras em negócios viáveis. Com uma abordagem prática e um apoio contínuo, ajudo a moldar o futuro do empreendedorismo na nossa região.
+No ecossistema de startups, uso minha experiência para orientar jovens empreendedores a transformar ideias inovadoras em negócios viáveis. Com uma abordagem prática e um apoio contínuo, ajudo a moldar o futuro do empreendedorismo.
 
 - 🌱 Atualmente estou aprendendo **[Swoole, Rust, IA e GoLang]**
 - 👯 Estou procurando colaborar em **[Projetos sociais e comunidades de tecnologia]**
