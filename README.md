@@ -1,31 +1,47 @@
-## Olá eu sou o Matheus Felipe! 🖖
+# Olá, sou Matheus Felipe Marinho 👋
+
+## Sobre Mim
+Como CTO e arquiteto de software, tenho dedicado minha carreira ao avanço da tecnologia e à inovação prática. Fora do escritório, sou mais conhecido por minha dedicação à família e meu amor pela música e pelo Brazilian Jiu-Jitsu, que me mantêm equilibrado e focado.
+
+Meu compromisso com a educação e o empoderamento através da tecnologia se manifesta no meu envolvimento com iniciativas de ensino de programação para comunidades carentes. Acredito firmemente que a tecnologia é uma ferramenta poderosa para a mudança social e dedico meu tempo livre para garantir que ela esteja acessível a todos, independentemente de sua origem.
+
+No ecossistema de startups, atuo como mentor no Startup Weekend em Governador Valadares, onde uso minha experiência para orientar jovens empreendedores a transformar ideias inovadoras em negócios viáveis. Com uma abordagem prática e um apoio contínuo, ajudo a moldar o futuro do empreendedorismo na nossa região.
+
+- 🌱 Atualmente estou aprendendo **[Swoole, Rust, IA e GoLang]**
+- 👯 Estou procurando colaborar em **[Projetos sociais e comunidades de tecnologia]**
+- 💬 Pergunte-me sobre **[Carreira & Arquitetura de Software]**
+- 📫 Como me contatar: **[marinhomath@gmail.com]**
+- ⚡ Fato divertido: **[ 👨‍👧‍👦 PAI da Sara, Matheus e Isis. 🐶 Humano do THOR,🎸 Tocador,🥋 BJJ ]**
 
 
-<div align="center">
-  <a href="https://github.com/MatheusFelipeMarinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFelipeMarinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFelipeMarinho&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCqE2AYriFNUFE4KDFlVJxJA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/matheusfelipe.1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/comofazerprogramaonfast" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marinhomath@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-marinho-a3b86780/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MatheusFelipeMarinho/MatheusFelipeMarinho/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+## Métricas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFelipeMarinho&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)
+
+
+## Minhas Habilidades
+
+### Linguagens de Programação
+![PHP](https://img.shields.io/badge/-PHP-0e1117?style=flat-square&logo=php)
+![Go](https://img.shields.io/badge/-Go-0e1117?style=flat-square&logo=go)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0e1117?style=flat-square&logo=javascript)
+
+### Frameworks
+![Laravel](https://img.shields.io/badge/-Laravel-0e1117?style=flat-square&logo=laravel)
+![HyperF](https://img.shields.io/badge/-HyperF-0e1117?style=flat-square&logo=hyperf)
+![Vue.js](https://img.shields.io/badge/-Vue.js-0e1117?style=flat-square&logo=vue.js)
+
+### Ferramentas e Tecnologias
+![Git](https://img.shields.io/badge/-Git-0e1117?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-0e1117?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0e1117?style=flat-square&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-0e1117?style=flat-square&logo=amazonaws)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0e1117?style=flat-square&logo=rabbitmq)
+
+### Bancos de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-0e1117?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0e1117?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0e1117?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-0e1117?style=flat-square&logo=redis)
+![EventStoreDB](https://img.shields.io/badge/-EventStoreDB-0e1117?style=flat-square&logo=eventstore)
+
