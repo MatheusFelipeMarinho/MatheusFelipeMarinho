@@ -4,6 +4,8 @@ Como CTO e arquiteto de software, tenho dedicado minha carreira ao avanço da te
 
 Meu compromisso com a educação e o empoderamento através da tecnologia se manifesta no meu envolvimento com iniciativas de ensino de programação para comunidades carentes. Acredito firmemente que a tecnologia é uma ferramenta poderosa para a mudança social e dedico meu tempo livre para garantir que ela esteja acessível a todos, independentemente de sua origem.
 
+---
+
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
